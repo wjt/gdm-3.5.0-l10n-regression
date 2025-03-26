@@ -1,0 +1,6 @@
+~ start
+Nathan: Would you like to enlarge?
+- Zoom and enhance!
+	do enlarge()
+	=> start
+- I'm done. => END
